@@ -1,6 +1,6 @@
 # ISM2411 Lab 11 — Customer Dictionary & Lookup
 
-**Name:** Your Name Here
+**Name:** Guilherme Anjos
 
 ## How to Run
 
